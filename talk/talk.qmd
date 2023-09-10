@@ -1,0 +1,483 @@
+---
+title: "Mapping Magnetic Anomaly Fields<br>for Safer Navigation"
+author: 'Evelyn J. Boettcher'
+date: 'Sept. 12, 2023'
+subtitle: 'a STEM Activity'
+title-slide-attributes:
+    data-background-image: 'img/solar_mag_field.png'
+    data-background-size: "100% 70% "
+    data-background-position: "0% 80% "
+    data-background-opacity: "0.95"
+bibliography: references.bib
+
+format:
+    revealjs:
+        incremental: false
+
+fig-cap-location: margin
+---
+
+## Outline
+
+::: columns
+::: {.column width="49%"}
+-   Why is a magnetic anomaly map needed
+-   What is magnetic anomaly
+-   How are magnetic maps a made, now
+-   How students will contribute
+    - Targeted grades 8th-10th
+-   What students gain:
+    - Real experience
+    - Scientific contributor
+    - Science mentors near their age
+    - Intergrated knowledge 
+-   How to be involved
+:::
+
+::: {.column width="49%"}
+![](img/EarthBarMag.png) @bluemarble
+:::
+:::
+
+## Why are <br> Magnetic anomaly Map needed
+
+<br>
+<br>
+
+## Why are <br> Magnetic anomaly Map needed
+
+<br>
+<br>
+
+### For the DoD
+
+Navigation via magnetic maps solves one of the four critical capability gaps identified by Air Mobility Command (AF.mil 2023)
+
+
+## Why are <br>Magnetic anomaly Map needed
+
+<br>
+<br>
+
+### Pirates!
+
+## Why are <br>Magnetic anomaly Map needed
+
+### Pirates!
+
+::: columns
+::: {.column width="49%"}
+![](img/pirates/DALL-E-pirateboatcargoshipocean.png) (@dall-e)
+:::
+
+::: {.column width="49%"}
+![](img/pirates/DALL-E-piratesstealingtv.png) (@dall-e)
+:::
+:::
+
+## GPS is not Always Reliable
+
+
+<br> It is too easy for bad actors (aka Pirates) to spoof GPS signals to divert cargo ships or airplanes. There are growing concerns that the shipping industry is vulnerable to GPS spoofing (@shipGPSspoof)
+
+<br>
+
+::: columns
+:::: {.column width="54%"}
+GPS spoofing has the real risk of keeping ships at sea longer than necessary, or even causing ships to collide.
+
+<br> 
+These same concerns are amplified in the aviation industry.
+
+<br>
+<br>
+
+In addition, planes to worry about  being tricked into flying into dangerous no fly zones.
+::::
+
+::: {.column width="45%"}
+#### GPS: Proceed for 10 more miles
+
+![GPS:Proceed for 10 more miles](./img/deathbygps.png) (@DeathbyGPS)
+::::
+:::
+
+
+## Magetic Anomaly Maps
+
+<br>
+
+
+### Can Validate GPS Signals
+<br>
+
+### Can be used for Non GPS Navigation
+
+---
+
+
+### Earth's Magnetic Field
+
+![](img/solarexp.jpg){width=80%} 
+@sunEarthmag
+
+## Earth's Magnetic Field
+
+::: columns
+::: {.column width="42%"}
+![](img/EarthBarMag.png) @bluemarble
+
+-   Earth Field: 25,000nT - 65,000nT (nanotesla)
+-   MRI's: 1 Tesla = 1,000,000,000 nT
+:::
+
+::: {.column width="55%"}
+![](img/EarthIField.png) @millerMag
+:::
+:::
+
+## Magnetic anomaly
+
+The Earth's Magnetic Field has variations do to field locked in it's crust.
+
+-   These fields change very slowly
+    -   Geologic Timescale (\~20,000 year time scale)
+
+![](img/editted_usa_only.jpg){width="75%"} @usamagmap
+
+## Magnetic anomaly
+
+::: columns
+::: {.column width="49%"}
+
+![](img/EarthBarMag.png){width="60%"} @bluemarble
+:::
+
+::: {.column width="49%"}
+
+
+![](img/mag_anomally_editted_usa_only.jpg) @usamagmap
+
+:::
+:::
+
+<br>
+
+:::{.columns}
+::::{.column width=49%}
+
+#### Magnetic Fields
+
+-   Earth Field: 25,000nT - 65,000nT (nanotesla)
+-   Bar Magnet = 1,000,000nT (200X Earth Field)
+-   MRI's: 1 Tesla (40,000X Earths Field)
+
+::::
+::: {.column width="5%"}
+:::
+::::{.column width=45%}
+
+#### Magnetic Anomaly
+
+-   $\pm$ 500nT
+
+### Anomaly is much, <br> much smaller!
+
+ 
+::::
+:::
+
+## Why make another map
+
+![](img/mag_anomally_editted_usa_only.jpg){width="75%"} @usamagmap
+
+## Why make another map
+
+<br>
+
+<br>
+
+Current maps are low resolution.
+
+<br> Need higher resolutions for navigation
+
+## Why Higher Resolutions
+
+### Can you use this map to drive to the grocery store?
+
+::: columns
+:::: {.column width="49%"}
+![](img/google_map_usa.png) @googlemap
+::::
+:::: {.column width="49%"}
+![](img/mag_anomally_editted_usa_only.jpg) @usamagmap
+::::
+:::
+
+## How a Magnetic Maps are Made Now
+
+
+:::{.columns}
+::::{.column width=60%}
+Maps are made using special equipped planes.
+
+<br>
+<br>
+
+
+* It is a slow process and 
+* Data needs to be cleaned to remove the <br>plane's magnetic field.
+
+::::
+::::{.column width=35%}
+
+![](img/SGL_cesna_over_mag_map.png)
+@nielsen
+ 
+::::
+::::{.column width=5%}
+
+
+ 
+::::
+:::
+
+:::{.columns}
+::::{.column width=49%}
+
+![](img/evelyn_c17.jpeg){width=90%} 
+@c17
+
+::::
+::::{.column width=49%}
+
+
+![](img/DALL-Eplanemagneticfieldlines-geomancy.png){width=76%} @dall-e
+ 
+::::
+:::
+
+## Solution
+
+---
+
+## Solution
+:::{.columns}
+::::{.column width=59%}
+
+### Party Balloons!
+
+Why Party Balloons:
+
+* Weather Balloon = $100-$200
+* Party Balloon = $2
+
+
+### Electronics Needed
+![](img/magnav_electronics.png){width=60%}
+
+* Power Source: Solar panel
+* Location and Data Transmission: LoraWan
+* Magnetic Sensor: PNI
+
+::::
+::::{.column width=40%}
+
+ ![](img/pico_balloon/pico_balloon_lorawan.png){width=90%}
+ @lightTracker
+::::
+:::
+
+
+
+
+## How Far can a balloon go?
+
+Pico balloons can circumnavigate the world several times 
+
+![](img/picoBallon_world_circum.png){width=85%}@picoballon
+
+## Now Back to the STEM
+
+
+## Why do Students have <br>low STEM interest
+
+Many students do not see the value nor the purpose of a STEM education.  
+<br>
+
+### Why no interest? 
+
+:::{.columns}
+::::{.column width=78%}
+* STEM activities tend to be focused on a single aspect of a scientific field. 
+    * Students do not shout out Eureka after seeing how many pennies an aluminum boat can hold. They simply record the number of pennies and wonder how this knowledge is useful in the real world.
+::::
+::::{.column width=20%}
+ ![](img/DALL-E_pennyBoat.png)
+::::
+:::
+* Few opportunities for students to see how scientists do experiments to make the world better.   
+* Few interactions with Scientist, especially in lower income brackets,
+   *   One needs role models to help one visualize that this career can be for them. 
+* Don't see how one can make a living doing science.  
+
+---
+
+## STEM Magnetic Mapping
+
+This STEM project is designed to address these issues.  
+
+<br>
+
+
+:::{.columns}
+::::{.column width=80%}
+It involves multiple fields of science and engineering:
+
+* Earth Science, 
+* Physical Science and 
+* Electrical and Mechanical Engineering 
+
+ 
+::::
+::::{.column width=15%}
+![](img/stem-mag.png) 
+::::
+:::
+Integrated into a single project for students grades eighth through tenth. 
+
+:::{.columns}
+::::{.column width=33%}
+![](img/mag_anomally_editted_usa_only.jpg)@usamagmap
+::::
+::::{.column width=30%}
+![](img/pico_balloon/balloon_lift.png)@lightTracker
+::::
+::::{.column width=33%}
+![](img/magnav_electronics.png)
+::::
+
+:::
+
+## Earth and Physical Science: 
+### Altitude, Density & Temperature
+
+To launch a balloon, students need to calculate how much to fill a balloon and how many they might need. 
+
+This activity ties in: Temperature, Density and Pressure.
+
+It helps make the information releated in the images below real.
+
+<br>
+
+:::{.columns}
+::::{.column width=34%}
+![](./img/lowerlayersatmosphere.jpg)@temp-atmosphere
+Temp and Altitude
+::::
+::::{.column width=29%}
+![](./img/The%20difference%20in%20pressure.jpg)@temp-atmosphere
+Pressure and Altitude
+::::
+::::{.column width=36%}
+![](./img/molecules%20in%20the%20atmosphere.jpg)@temp-atmosphere
+<br>
+Number of Molecules and Altitude
+::::
+:::
+
+
+---
+
+:::{.columns}
+::::{.column width=49%}
+
+### Raw Data
+
+![](./img/US_stand_atmos_0.png)
+::::
+::::{.column width=49%}
+ ![](./img/US_stand_atmos_68.png){width=92%}
+::::
+:::
+
+## Balloon Activity
+### Gedanken Questions with Impact on their Sucess
+
+Now they have to tie in changes in density and pressure to the charts and tables.
+
+:::{.columns}
+::::{.column width=68%}
+
+<br>
+
+#### Questions
+
+* How many 36" party balloons do you need?
+* How much do you fill the balloon
+   * Why are you filling it up no more than a 1/3?
+* How much lift do you need?
+
+
+| Altitude (m) | Density |
+|:--- |:--- |
+| 0  | 100 |
+| 5,000 | 60 |
+| 10,000 | 33.6 |
+
+::::
+::::{.column width=32%}
+ ![](./img/pico_balloon/pico_balloon_lorawan.png)@lightTracker
+::::
+:::
+
+
+---
+
+
+## Magnetic Mapping Flow
+
+
+:::{.columns}
+::::{.column width=10%}
+
+::::
+::::{.column width=80%}
+![](img/STEM-mag.svg) 
+::::
+:::
+
+
+
+## How to be involved
+
+:::{.columns}
+::::{.column width=70%}
+* Looking for partners to:
+  * Evaluate kits 2024-2025
+
+* Pointers to grants.
+
+
+<br>
+
+### Contact:
+
+#### Evelyn J. Boettcher
+##### Evelyn.boettcher@didactex.com
+
+::::
+::::{.column width=29%}
+![](img/DiDacTex_QR.png)
+::::
+:::
+
+
+<br>
+
+### Magnetic anomaly Mapping for Safer Navigation
+
+
+---
+
+## References
