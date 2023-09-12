@@ -359,6 +359,8 @@ Integrated into a single project for students grades eighth through tenth.
 
 :::
 
+---
+
 ## Earth and Physical Science: 
 ### Altitude, Density & Temperature
 
@@ -389,17 +391,6 @@ Number of Molecules and Altitude
 
 ---
 
-:::{.columns}
-::::{.column width=49%}
-
-### Raw Data
-
-![](./img/US_stand_atmos_0.png)
-::::
-::::{.column width=49%}
- ![](./img/US_stand_atmos_68.png){width=92%}
-::::
-:::
 
 ## Balloon Activity
 ### Gedanken Questions with Impact on their Sucess
@@ -431,6 +422,19 @@ Now they have to tie in changes in density and pressure to the charts and tables
 ::::
 :::
 
+---
+
+:::{.columns}
+::::{.column width=49%}
+
+### Raw Data
+
+![](./img/US_stand_atmos_0.png)
+::::
+::::{.column width=49%}
+ ![](./img/US_stand_atmos_68.png){width=92%}
+::::
+:::
 
 ---
 
